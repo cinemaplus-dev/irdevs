@@ -109,11 +109,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "174.138.2.254",
-            "port": 8070,
+            "address": "165.232.118.83",
+            "port": 2086,
             "users": [
               {
-                "id": "8f36f57d-699e-0740-3da5-1ad69114e530",
+                "id": "92755dd9-b342-9d6d-9390-a3264464f668",
                 "level": 8,
                 "security": "auto"
               }
@@ -123,7 +123,6 @@
       },
       "streamSettings": {
         "network": "tcp",
-        "security": "none",
         "tcpSettings": {
           "header": {
             "request": {
@@ -168,7 +167,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "🚀 🇳🇱 IRDevs 5",
+  "remarks": "🚀 🇩🇪 IRDevs 1",
   "routing": {
     "domainStrategy": "AsIs",
     "rules": [
