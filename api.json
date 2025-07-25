@@ -2,9 +2,5 @@
     {
         "name": "name 1",
         "url": "https://raw.githubusercontent.com/cinemaplus-dev/irdevs/refs/heads/main/1.json"
-    },
-    {
-        "name": "name 2",
-        "url": "https://raw.githubusercontent.com/cinemaplus-dev/irdevs/refs/heads/main/2.json"
     }
 ]
