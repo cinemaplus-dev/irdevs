@@ -2,5 +2,21 @@
     {
         "name": "🚀 🇩🇪 IRDevs 1",
         "url": "https://raw.githubusercontent.com/cinemaplus-dev/irdevs/refs/heads/main/1.json"
+    },
+    {
+        "name": "🚀 🇺🇲 IRDevs 2",
+        "url": "https://raw.githubusercontent.com/cinemaplus-dev/irdevs/refs/heads/main/2.json"
+    },
+    {
+        "name": "🚀 🇩🇪 IRDevs 3",
+        "url": "https://raw.githubusercontent.com/cinemaplus-dev/irdevs/refs/heads/main/3.json"
+    },
+    {
+        "name": "🚀 🇩🇪 IRDevs 4",
+        "url": "https://raw.githubusercontent.com/cinemaplus-dev/irdevs/refs/heads/main/4.json"
+    },
+    {
+        "name": "🚀 🇳🇱 IRDevs 5",
+        "url": "https://raw.githubusercontent.com/cinemaplus-dev/irdevs/refs/heads/main/5.json"
     }
 ]
